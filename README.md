@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; 大连理工大学 && 中国科学技术大学
-- 🎓 &nbsp; 机器人软硬件开发、嵌入式开发、机器人控制算法开发、机器视觉算法开发、深度强化学习
+- 🎓 &nbsp; 机器人软硬件开发、机器人控制算法开发、机器视觉算法开发、深度强化学习
 - 💼 &nbsp; 业余音乐爱好者
 - ✍️ &nbsp; 个人主页：https://ustc_zl.gitee.io/about/
 
@@ -35,7 +35,11 @@
 - 🖥 &nbsp;
   ![SolidWorks](https://img.shields.io/badge/-SolidWorks-333333?style=flat&logo=solidWorks)
   ![MATLAB](https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=matlab)
-
+- 🧑🏿‍💻 &nbsp;
+  ![CoppeliaSim](https://img.shields.io/badge/-CoppeliaSim-333333?style=flat&logo=coppeliasim)
+  ![IsaacGym](https://img.shields.io/badge/-IsaacGym-333333?style=flat&logo=isaacgym)
+  ![Mujoco](https://img.shields.io/badge/-Mujoco-333333?style=flat&logo=mujoco)
+  
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
   联系我：zlsy@mail.ustc.edu.cn
